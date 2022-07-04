@@ -4,4 +4,4 @@ function range(a,b){
         return range(a+1,b)
     }
 }
-console.log(range(10,20));
+range(30,40)
